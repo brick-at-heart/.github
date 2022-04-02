@@ -7,7 +7,7 @@ Brick@Heart's mission is to support the AFOL community through the delivery of s
 A shared library of data entities and data client methods which serves as the contract for all data access for Brick@Heart software. 
 
 ## Baseplate.SqlServerDataClient
-A SQL Server specific implement of the interfaces declared in Baseplate.Shared. This is the default implementaion used through Brick@Heart software.
+A SQL Server specific implement of the interfaces declared in Baseplate.Shared. This is the default implementaion used throughout Brick@Heart software.
 
 ## Baseplate.SqlServerDataStore
 A database project which contains the definition of 99% of the objects used in a SQL Server data store for Brick@Heart software.
@@ -16,7 +16,7 @@ A database project which contains the definition of 99% of the objects used in a
 A library of business object implementations of the interfaces defined in Brick.Shared. It requires an implementation of Baseplate.Shared for data access.
 
 ## Brick.Shared
-A library of business object definitions meant to provide a shared defintion for use through out Brick@Heart. It uses Baseplate.Shared for data entity and data client method definitions.
+A library of business object definitions meant to provide a shared defintion for use throughout Brick@Heart. It uses Baseplate.Shared for data entity and data client method definitions.
 
 ## Minifig
 The token store used by Brick@Heart software for authentication. This service is used for access to Plate and Tile, but does not handle permissions within the software.
