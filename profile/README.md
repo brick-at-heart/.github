@@ -6,8 +6,11 @@ Brick@Heart's mission is to support the AFOL community through the delivery of s
 
 # Software
 
-## Community
-Community is a software as a service offering for the administration of AFOL communities. 
+## Communities
+Communities is a software as a service offering for the administration of AFOL communities. 
+
+## Brick-A-Bracket
+Brick-A-Bracket is competition organizer software for plastic brick enthusiasts.
 
 ## Other
 Brick@Heart is open to hosting other software projects.
